@@ -1,0 +1,28 @@
+ASSIGNMENT QUICK START
+
+1. Extract this ZIP to a folder on your PC.
+2. Create/sign into your LeetCode account: https://leetcode.com/
+3. Open each problem listed in README.md.
+4. Select C as the language, paste the corresponding .c solution, and click Submit.
+5. Confirm the result is Accepted. Learn what each function does; comments summarize the approach and complexity.
+6. Create a GitHub repository named BCA-C-Programming-LeetCode.
+7. Install/open GitHub Desktop: https://desktop.github.com/
+8. In GitHub Desktop: File > Add Local Repository (if the extracted folder is not already a Git repository, choose Create a Repository).
+9. Publish the repository to GitHub. Choose Public if your instructor needs to view it.
+10. Commit changes with a meaningful message, e.g. "Add 10 C LeetCode solutions".
+11. Create a branch called documentation, edit README.md on that branch, commit, then create a Pull Request on GitHub and merge it into main.
+12. Submit your public repository link.
+
+LEETCODE PROBLEM LINKS
+01 Two Sum: https://leetcode.com/problems/two-sum/
+02 Reverse String: https://leetcode.com/problems/reverse-string/
+03 Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+04 Remove Element: https://leetcode.com/problems/remove-element/
+05 Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/
+06 Best Time to Buy and Sell Stock: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+07 Contains Duplicate: https://leetcode.com/problems/contains-duplicate/
+08 Move Zeroes: https://leetcode.com/problems/move-zeroes/
+09 Majority Element: https://leetcode.com/problems/majority-element/
+10 Binary Search: https://leetcode.com/problems/binary-search/
+
+NOTE: The C functions in these files are LeetCode-style submissions, not complete console programs. LeetCode supplies the test harness.
