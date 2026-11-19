@@ -1,33 +1,35 @@
-C Programming – LeetCode Solutions
+# C Programming – LeetCode Solutions
 
-A collection of 10 LeetCode problems solved using C as part of my BCA coursework.
+A collection of 10 LeetCode problems solved using C as part of my BCA coursework. This repository demonstrates my understanding of fundamental programming concepts, problem-solving techniques, and basic Git/GitHub workflow.
 
-Course Details
+## Course Details
 
-- Course: C Programming
-- Course Code: [Add Course Code]
-- Semester: First Semester
-- Language: C
+- **Course:** C Programming
+- **Course Code:** [Add Course Code]
+- **Semester:** First Semester
+- **Programming Language:** C
 
-LeetCode Profile
+## LeetCode Profile
 
-"Sameer Bharti – LeetCode Profile = https://leetcode.com/u/TheFinix07/ "
+**Sameer Bharti – LeetCode Profile:**  
+[Visit My LeetCode Profile](https://leetcode.com/u/TheFinix07/)
 
-Problems Solved
+## Problems Solved
 
-No.| Problem| LeetCode
-1| Two Sum| "View" (https://leetcode.com/problems/two-sum/)
-2| Reverse String| "View" (https://leetcode.com/problems/reverse-string/)
-3| Valid Palindrome| "View" (https://leetcode.com/problems/valid-palindrome/)
-4| Remove Element| "View" (https://leetcode.com/problems/remove-element/)
-5| Merge Sorted Array| "View" (https://leetcode.com/problems/merge-sorted-array/)
-6| Best Time to Buy and Sell Stock| "View" (https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-7| Contains Duplicate| "View" (https://leetcode.com/problems/contains-duplicate/)
-8| Move Zeroes| "View" (https://leetcode.com/problems/move-zeroes/)
-9| Majority Element| "View" (https://leetcode.com/problems/majority-element/)
-10| Binary Search| "View" (https://leetcode.com/problems/binary-search/)
+| No. | Problem | LeetCode Link |
+|:---:|---|---|
+| 1 | Two Sum | [View Problem](https://leetcode.com/problems/two-sum/) |
+| 2 | Reverse String | [View Problem](https://leetcode.com/problems/reverse-string/) |
+| 3 | Valid Palindrome | [View Problem](https://leetcode.com/problems/valid-palindrome/) |
+| 4 | Remove Element | [View Problem](https://leetcode.com/problems/remove-element/) |
+| 5 | Merge Sorted Array | [View Problem](https://leetcode.com/problems/merge-sorted-array/) |
+| 6 | Best Time to Buy and Sell Stock | [View Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 7 | Contains Duplicate | [View Problem](https://leetcode.com/problems/contains-duplicate/) |
+| 8 | Move Zeroes | [View Problem](https://leetcode.com/problems/move-zeroes/) |
+| 9 | Majority Element | [View Problem](https://leetcode.com/problems/majority-element/) |
+| 10 | Binary Search | [View Problem](https://leetcode.com/problems/binary-search/) |
 
-Concepts Covered
+## Concepts Covered
 
 - Arrays and Strings
 - Pointers
@@ -36,19 +38,19 @@ Concepts Covered
 - Greedy Algorithms
 - Basic Problem Solving
 
-GitHub Workflow
+## GitHub Workflow
 
-This repository also demonstrates basic Git and GitHub operations:
+This repository also demonstrates basic Git and GitHub operations, including:
 
-- Commits and branches
-- Documentation branch
+- Commits and Branches
+- Documentation Branch
 - Pull Requests
-- Merging changes into the main branch
+- Merging Changes into the Main Branch
 
-Note
+## Note
 
-Each C file contains the function required by LeetCode. The solutions do not include "main()" and can be submitted directly using LeetCode's C compiler.
+Each C file contains the function required by LeetCode. The solutions do not include `main()` and can be submitted directly using LeetCode's C compiler.
 
 ---
 
-Author: Sameer Bharti
+**Author:** Sameer Bharti
