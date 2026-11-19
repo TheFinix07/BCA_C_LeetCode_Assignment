@@ -2,13 +2,6 @@
 
 A collection of 10 LeetCode problems solved using C as part of my BCA coursework. This repository demonstrates my understanding of fundamental programming concepts, problem-solving techniques, and basic Git/GitHub workflow.
 
-## Course Details
-
-- **Course:** C Programming
-- **Course Code:** [Add Course Code]
-- **Semester:** First Semester
-- **Programming Language:** C
-
 ## LeetCode Profile
 
 **Sameer Bharti – LeetCode Profile:**  
