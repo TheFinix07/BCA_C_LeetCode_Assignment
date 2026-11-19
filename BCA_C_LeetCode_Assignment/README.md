@@ -37,3 +37,9 @@ Each `.c` file contains the function expected by LeetCode. These are not standal
 
 ## Author
 BCA First Semester Student
+
+## Git Branching and Merging
+
+- Main branch: Contains all 10 C programming solutions.
+- Documentation branch: Used to update project documentation.
+- Pull Request: Used to merge documentation changes into the main branch.
